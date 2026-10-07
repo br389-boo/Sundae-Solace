@@ -82,7 +82,7 @@ Option 2: link to a video file stored in the repo:
 
 ## 🖼️ Prototype
 
-![Prototype preview](prototypePl.png)
+![Prototype preview](PrototypePl.png)
 
 **🔗 Prototype link (Figma Make):** [https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1](https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1)
 
