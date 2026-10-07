@@ -13,7 +13,7 @@
 | 2 | Mr. Chalermchai Buaain | 66310974 | **Video Editor** | Edited videos |
 | 3 | Mr. Thanapat Thongto | 66312251 | **Video Editor & Gameplay Demonstrator** | Edited videos and demonstrated gameplay |
 | 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation |
-| 5 | Mr. Khunanon Phayaknoi | 66310691 | **Lead Game Developer** | Built the entire game in Godot (100%); assembled characters, items, and the shop |
+| 5 | Mr. Khunanon Payaknoi | 66310691 | **Lead Game Developer** | Built the entire game in Godot (100%); assembled characters, items, and the shop |
 | 6 | Mr. Ratchaphiphat Thichon | 66315498 | **Project Manager / Presenter / Video Producer** | Produced videos, provided project updates, and pitched the game idea |
 | 7 | Ms. Kanlayanee Ratsameethong | 66310462 | **Game Designer & QA Tester** | Developed the game concept; tested gameplay, UI, and game correctness |
 | 8 | Ms. Chanapha Artdon | 66311070 | **Narrative Designer / Art Director / Voice Producer** | Wrote the story and character dialogue; created character voices (Luvvoice); defined the game's theme, color palette, and visual style; wrote prompts for scenes and videos |
