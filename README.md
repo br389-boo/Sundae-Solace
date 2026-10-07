@@ -5,7 +5,20 @@
 **▶️ Play the game:** [https://khunap6.itch.io/sundae-solace-game](https://khunap6.itch.io/sundae-solace-game)
 
 ---
+## 👥 Team & Roles
 
+| # | Member | Student ID | Professional Role | Responsibilities |
+|---|---|---|---|---|
+| 1 | Mr. Songwut Khwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
+| 2 | Mr. Chalermchai Buain | 66310974 | **Video Editor** | Edited videos |
+| 3 | Mr. Thanapat Thongto | 66312251 | **Video Editor & Gameplay Demonstrator** | Edited videos and demonstrated gameplay |
+| 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation (40%) |
+| 5 | Mr. Khunanon Phayakroi | 66310691 | **Lead Game Developer** | Built the entire game in Godot (100%); assembled characters, items, and the shop |
+| 6 | Mr. Ratphipat Thijorn | 66315498 | **Project Manager / Presenter / Video Producer** | Produced videos, provided project updates, and pitched the game idea |
+| 7 | Ms. Kanlayanee Rasameethong | 66310462 | **Game Designer & QA Tester** | Developed the game concept; tested gameplay, UI, and game correctness |
+| 8 | Ms. Chanapa Ardon | 66311070 | **Narrative Designer / Art Director / Voice Producer** | Wrote the story and character dialogue; created character voices (Luvvoice); defined the game's theme, color palette, and visual style; wrote prompts for scenes and videos |
+
+---
 ## 📖 About
 
 **Sundae Solace** is a cozy simulation / puzzle / casual game in which you run a small ice cream shop. Each customer speaks in English, and you must read their words, work out how they feel and what they need, and then make decisions in the game: **where to seat them** and **which ice cream to serve**.
@@ -87,21 +100,6 @@ Option 2: link to a video file stored in the repo:
 **🔗 Prototype link (Figma Make):** [https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1](https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1)
 
 <!-- Add more prototype screens here, e.g. ![Prototype screen 2](docs/prototype/screen-2.png) -->
-
----
-
-## 👥 Team & Roles
-
-| # | Member | Student ID | Professional Role | Responsibilities |
-|---|---|---|---|---|
-| 1 | Mr. Songwut Khwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
-| 2 | Mr. Chalermchai Buain | 66310974 | **Video Editor** | Edited videos |
-| 3 | Mr. Thanapat Thongto | 66312251 | **Video Editor & Gameplay Demonstrator** | Edited videos and demonstrated gameplay |
-| 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation (40%) |
-| 5 | Mr. Khunanon Phayakroi | 66310691 | **Lead Game Developer** | Built the entire game in Godot (100%); assembled characters, items, and the shop |
-| 6 | Mr. Ratphipat Thijorn | 66315498 | **Project Manager / Presenter / Video Producer** | Produced videos, provided project updates, and pitched the game idea |
-| 7 | Ms. Kanlayanee Rasameethong | 66310462 | **Game Designer & QA Tester** | Developed the game concept; tested gameplay, UI, and game correctness |
-| 8 | Ms. Chanapa Ardon | 66311070 | **Narrative Designer / Art Director / Voice Producer** | Wrote the story and character dialogue; created character voices (Luvvoice); defined the game's theme, color palette, and visual style; wrote prompts for scenes and videos |
 
 ---
 
