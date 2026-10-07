@@ -33,7 +33,7 @@
 ---
 
 ## 🎮 How to Play
- ![Game](howtoplay.png) 
+ ![Game](howtoplay.png)
 1. Take the customer's order.
 2. Choose the seat that best suits the customer.
 3. Choose the ice cream flavor to serve.
