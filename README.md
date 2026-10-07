@@ -87,15 +87,15 @@ Option 2: link to a video file stored in the repo:
 [▶️ Watch the gameplay demo](docs/videos/gameplay-demo.mp4)
 -->
 
-[![Watch the gameplay demo](docs/screenshots/video-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<!--[![Watch the gameplay demo](docs/screenshots/video-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)-->
 
-**▶️ Watch on YouTube:** [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+**▶️ Watch on Google Drive:** [video on drive](https://drive.google.com/file/d/15WLCnZY_DG7KW_UPkfT6yGuTT0VINqKB/view?usp=sharing)
 
 ---
 
 ## 🖼️ Prototype
 
-![Prototype preview](PrototypePl.png) ![Prototype preview 1](PrototypeSt.png)
+![Prototype preview](PrototypePl.png)
 
 **🔗 Prototype link (Figma Make):** [https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1](https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1)
 
