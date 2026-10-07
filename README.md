@@ -9,7 +9,7 @@
 
 | # | Member | Student ID | Professional Role | Responsibilities |
 |---|---|---|---|---|
-| 1 | Mr. Songwut Khwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
+| 1 | Mr. Songwut Kwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
 | 2 | Mr. Chalermchai Buain | 66310974 | **Video Editor** | Edited videos |
 | 3 | Mr. Thanapat Thongto | 66312251 | **Video Editor & Gameplay Demonstrator** | Edited videos and demonstrated gameplay |
 | 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation |
