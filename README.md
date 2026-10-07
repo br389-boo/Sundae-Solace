@@ -103,8 +103,8 @@ Option 2: link to a video file stored in the repo:
 
 | Tool | Used for |
 |---|---|
-| **Figma Make** | Design and prototyping |
-| **Gemini** | Characters, items, video, and cutscenes |
-| **Claude** | Code |
-| **Luvvoice** | Character voices |
-| **ChatGPT** | Backgrounds |
+| **Figma Make** | Designing the game UI and building the prototype |
+| **Gemini** | Generating characters, items, videos, and cutscenes, using prompts written by the team to match the game's theme, color palette, and visual style |
+| **Claude** | Assisting with code for the game, built in Godot |
+| **Luvvoice** | Generating character voices (text-to-speech) from the English dialogue |
+| **ChatGPT** | Helping write the characters' dialogue, and generating background images for the game scenes |
