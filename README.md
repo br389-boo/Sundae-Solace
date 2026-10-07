@@ -10,6 +10,7 @@
 
 **Sundae Solace** is a cozy simulation / puzzle / casual game in which you run a small ice cream shop. Each customer speaks in English, and you must read their words, work out how they feel and what they need, and then make decisions in the game: **where to seat them** and **which ice cream to serve**.
 
+| | |
 |---|---|
 | **Genre** | Cozy Simulation / Puzzle / Casual |
 | **Target learners** | Ages 12–22 (lower-secondary through early university) with basic English, or anyone who wants to practice beginner English |
