@@ -58,13 +58,9 @@ Put your in-game screenshots in docs/screenshots/ and replace the placeholders b
 Example: ![Gameplay](docs/screenshots/gameplay-1.png)
 -->
 
-| Order & Dialogue | Seat Selection | Ice Cream Selection |
-|---|---|---|
-| ![Order screen](Home.png) | ![Seat selection](docs/screenshots/seat.png) | ![Ice cream selection](docs/screenshots/icecream.png) |
-
-| Feedback (Grandma's Note) | Results & Rewards | Shop Overview |
-|---|---|---|
-| ![Feedback screen](docs/screenshots/feedback.png) | ![Results screen](docs/screenshots/results.png) | ![Shop overview](docs/screenshots/shop.png) |
+| Start Game |
+|---|
+| ![Order screen](Home.png) | 
 
 ---
 
