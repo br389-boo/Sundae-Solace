@@ -1,6 +1,6 @@
-# 🍨 Sundae Solace 🍦
+# 🍨 Sundae Solace🍦
 
-> A relaxing ice cream shop simulation game where you learn English by reading between the lines.
+> A relaxing ice cream shop simulation game where you learn English by reading between the lines.🍧
 
 **▶️ Play the game:** [https://khunap6.itch.io/sundae-solace-game](https://khunap6.itch.io/sundae-solace-game)
 
