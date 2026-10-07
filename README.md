@@ -7,7 +7,7 @@
 ---
 ## 👥 Team & Roles
 
-| # | Member | Student ID | Professional Role | Responsibilities |
+| # | Member | Student ID | Role | Responsibilities |
 |---|---|---|---|---|
 | 1 | Mr. Songwut Kwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
 | 2 | Mr. Chalermchai Buain | 66310974 | **Video Editor** | Edited videos |
