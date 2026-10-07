@@ -33,7 +33,7 @@
 ---
 
 ## 🎮 How to Play
-
+ ![Game](howtoplay.png) 
 1. Take the customer's order.
 2. Choose the seat that best suits the customer.
 3. Choose the ice cream flavor to serve.
@@ -64,6 +64,18 @@
 
 ---
 
+## 🤖 AI Tools Used
+
+| Tool | Used for |
+|---|---|
+| **Figma Make** | Designing the game UI and building the prototype |
+| **Gemini** | Generating characters, items, videos, and cutscenes, using prompts written by the team to match the game's theme, color palette, and visual style |
+| **Claude** | Assisting with code for the game, built in Godot |
+| **Luvvoice** | Generating character voices (text-to-speech) from the English dialogue |
+| **ChatGPT** | Helping write the characters' dialogue, and generating background images for the game scenes |
+
+---
+
 ## 📸 Screenshots
 
 <!--Put your in-game screenshots in docs/screenshots/ and replace the placeholders below.
@@ -75,16 +87,6 @@ Example: ![Gameplay](docs/screenshots/gameplay-1.png) -->
 
 ## 🎬 Gameplay Demo Video
 
-<!--
-Option 1 (recommended): upload the video to YouTube and link it with a clickable thumbnail:
-[![Watch the gameplay demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-Option 2: link to a video file stored in the repo:
-[▶️ Watch the gameplay demo](docs/videos/gameplay-demo.mp4)
--->
-
-<!--[![Watch the gameplay demo](docs/screenshots/video-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)-->
-
 **▶️ Watch on YouTube:** [video on YouTube](https://youtu.be/iPRLP1TQQD8?t=14&si=Idz3EnpyRA29QjpR)
 
 ---
@@ -94,17 +96,3 @@ Option 2: link to a video file stored in the repo:
 ![Prototype preview](PrototypePl.png)
 
 **🔗 Prototype link:** [Figma Make](https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1)
-
-<!-- Add more prototype screens here, e.g. ![Prototype screen 2](docs/prototype/screen-2.png) -->
-
----
-
-## 🤖 AI Tools Used
-
-| Tool | Used for |
-|---|---|
-| **Figma Make** | Designing the game UI and building the prototype |
-| **Gemini** | Generating characters, items, videos, and cutscenes, using prompts written by the team to match the game's theme, color palette, and visual style |
-| **Claude** | Assisting with code for the game, built in Godot |
-| **Luvvoice** | Generating character voices (text-to-speech) from the English dialogue |
-| **ChatGPT** | Helping write the characters' dialogue, and generating background images for the game scenes |
