@@ -60,7 +60,7 @@ Example: ![Gameplay](docs/screenshots/gameplay-1.png)
 
 | Order & Dialogue | Seat Selection | Ice Cream Selection |
 |---|---|---|
-| ![Order screen](docs/screenshots/order.png) | ![Seat selection](docs/screenshots/seat.png) | ![Ice cream selection](docs/screenshots/icecream.png) |
+| ![Order screen](Home.png) | ![Seat selection](docs/screenshots/seat.png) | ![Ice cream selection](docs/screenshots/icecream.png) |
 
 | Feedback (Grandma's Note) | Results & Rewards | Shop Overview |
 |---|---|---|
