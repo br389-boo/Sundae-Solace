@@ -1,4 +1,4 @@
-# 🍨 Sundae Solace
+# 🍨 Sundae Solace 🍦
 
 > A relaxing ice cream shop simulation game where you learn English by reading between the lines.
 
@@ -39,7 +39,7 @@
 3. Choose the ice cream flavor to serve.
 4. Read the feedback, then welcome the next guest. Each shift has **6 guests**.
 
-### Core Loop
+### 🔁 Core Loop
 
 `Input → Understand → Action → Feedback → Reward → Next Guest`
 
@@ -95,7 +95,7 @@ Option 2: link to a video file stored in the repo:
 
 ## 🖼️ Prototype
 
-![Prototype preview](PrototypePl.png)
+![Prototype preview](PrototypePl.png) ![Prototype preview 1](PrototypeSt.png)
 
 **🔗 Prototype link (Figma Make):** [https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1](https://www.figma.com/make/OQDVfWP7sY8BocHTOvcWo4/Create-Sundae-Solace-Game?code-node-id=0-9&p=f&fullscreen=1)
 
