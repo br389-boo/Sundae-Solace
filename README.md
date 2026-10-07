@@ -89,7 +89,7 @@ Option 2: link to a video file stored in the repo:
 
 <!--[![Watch the gameplay demo](docs/screenshots/video-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)-->
 
-**▶️ Watch on Google Drive:** [video on drive](https://drive.google.com/file/d/15WLCnZY_DG7KW_UPkfT6yGuTT0VINqKB/view?usp=sharing)
+**▶️ Watch on YouTube:** [video on YouTube](https://youtu.be/iPRLP1TQQD8?t=14&si=Idz3EnpyRA29QjpR)
 
 ---
 
