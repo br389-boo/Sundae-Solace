@@ -12,7 +12,7 @@
 | 1 | Mr. Songwut Khwanmueang | 66312060 | **Technical Writer / Game Guide Designer** | Wrote the "How to Play" game manual |
 | 2 | Mr. Chalermchai Buain | 66310974 | **Video Editor** | Edited videos |
 | 3 | Mr. Thanapat Thongto | 66312251 | **Video Editor & Gameplay Demonstrator** | Edited videos and demonstrated gameplay |
-| 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation (40%) |
+| 4 | Mr. Chayutphong Phumtup | 66311148 | **Documentation Specialist** | Prepared project documentation |
 | 5 | Mr. Khunanon Phayakroi | 66310691 | **Lead Game Developer** | Built the entire game in Godot (100%); assembled characters, items, and the shop |
 | 6 | Mr. Ratphipat Thijorn | 66315498 | **Project Manager / Presenter / Video Producer** | Produced videos, provided project updates, and pitched the game idea |
 | 7 | Ms. Kanlayanee Rasameethong | 66310462 | **Game Designer & QA Tester** | Developed the game concept; tested gameplay, UI, and game correctness |
