@@ -66,14 +66,10 @@
 
 ## 📸 Screenshots
 
-<!--
-Put your in-game screenshots in docs/screenshots/ and replace the placeholders below.
-Example: ![Gameplay](docs/screenshots/gameplay-1.png)
--->
+<!--Put your in-game screenshots in docs/screenshots/ and replace the placeholders below.
+Example: ![Gameplay](docs/screenshots/gameplay-1.png) -->
 
-| Start Game |
-|---|
-| ![Order screen](Home.png) | 
+ ![Start Game](Home.png) | 
 
 ---
 
